@@ -48,8 +48,9 @@ async function exportSubscribers(list) {
 }
 
 
-getTotalSubscribers(LIST).then(total => console.log(total))
+getTotalSubscribers(LIST).then(total => console.log(`Total Users in List: ${total}`))
 exportSubscribers(LIST).then(users => {
   console.log(users)
   saveToFile(users)
+  console.log('saved in file')
 })

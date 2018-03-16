@@ -1,0 +1,13 @@
+{
+  "name": "mailchimp-exporter",
+  "version": "0.0.1",
+  "description": "Export or Read a mailchimp list using the API and NodeJS",
+  "main": "index.js",
+  "repository": "git@github.com:sejas/export-list-mailchimp-api-v3.git",
+  "author": "Sejas <npm@sejas.es>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}

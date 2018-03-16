@@ -10,6 +10,10 @@ Export to CSV or Read a mailchimp list using the API
 - enjoy your export-YYYMMDD.csv file with your subscribers
 
 
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+
 ## Please, fell free to ask new functionalities, bugs or make a pull request.
 
 ### Donations

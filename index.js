@@ -51,6 +51,6 @@ async function exportSubscribers(list) {
 getTotalSubscribers(LIST).then(total => console.log(`Total Users in List: ${total}`))
 exportSubscribers(LIST).then(users => {
   console.log(users)
-  saveToFile(users)
+  saveToFile(users.replace(/\[|\]/g,''))
   console.log('saved in file')
 })

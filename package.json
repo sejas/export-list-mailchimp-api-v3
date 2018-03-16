@@ -7,6 +7,9 @@
   "author": "Sejas <npm@sejas.es>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^5.0.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.21.0",
     "request": "^2.85.0",
     "request-promise": "^4.2.2"
   }

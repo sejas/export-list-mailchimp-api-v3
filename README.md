@@ -14,4 +14,4 @@ Export to CSV or Read a mailchimp list using the API
 
 ### Donations
 ETH: 0x050fa25913D5dce19F426854fc10e3d882F3F6e2
-![ETH: 0x050fa25913D5dce19F426854fc10e3d882F3F6e2](https://sejas.es/img/0x050fa25913D5dce19F426854fc10e3d882F3F6e2.png =250x250)
+![ETH: 0x050fa25913D5dce19F426854fc10e3d882F3F6e2](https://sejas.es/img/0x050fa25913D5dce19F426854fc10e3d882F3F6e2.png | width=250)

@@ -14,7 +14,7 @@ Export to CSV or Read a mailchimp list using the API
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
-## Please, fell free to ask new functionalities, bugs or make a pull request.
+## Please, fell free to ask for new functionalities, bugs or make a pull request.
 
 ### Donations
 ETH: 0x050fa25913D5dce19F426854fc10e3d882F3F6e2

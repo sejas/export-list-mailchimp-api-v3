@@ -6,7 +6,7 @@ const API_KEY = process.env.MAPI_KEY
 const DC = API_KEY.split('-')[1]
 const LIST = process.env.MAPI_LIST
 
-const API_URL = `https://${DC}.api.mailchimp.com/3.0/`
+const API_URL = `https://${DC}.api.mailchimp.com/3.0`
 const endpoint_list = (list_id) => `${API_URL}/lists/${list_id}`
 const endpoint_members_list = (list_id) => `${API_URL}/lists/${list_id}/members`
 const endpoint_export = `https://${DC}.api.mailchimp.com/export/1.0/list/`

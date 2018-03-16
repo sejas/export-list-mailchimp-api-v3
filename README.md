@@ -3,8 +3,8 @@ Export to CSV or Read a mailchimp list using the API
 
 ## Steps
 - Set the .env variables
--- MAPI_KEY : is the api key
--- MAPI_LIST : is the list you want to export
+  - MAPI_KEY : is the api key
+  - MAPI_LIST : is the list you want to export
 - run `yarn install`
 - run `node index.js`
 - enjoy your export-YYYMMDD.csv file with your subscribers
